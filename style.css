@@ -103,6 +103,10 @@ i {
     color: #16D887;
 }
 
+.third-part {
+    margin-bottom: 100px;
+}
+
 .planning {
     color: var(--Dark-01, #151414);
     font-size: 40px;
@@ -149,4 +153,143 @@ i {
     font-weight: 500;
     line-height: normal;
     padding-top: 5px;
+}
+
+.positive {
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 60px;
+    padding-top: 60px;
+   
+}
+
+.fourth-part {
+    background: url(images/watch.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 800px;
+    margin-left: 240px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+}
+
+.call {
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0px;
+    color: #F15B22;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.last-part {
+    background: black;
+    height: 500px;
+    width: 100%;
+}
+
+.future {
+    color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.future-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+   
+}
+
+.email {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 16px;
+  
+}
+
+.phone {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 32px;
+   
+}
+
+
+.subs {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 31px;
+}
+
+.last-part {
+      display: flex;
+}
+
+.first-column {
+    margin-left: 200px;
+    margin-top: 130px;
+}
+
+.future {
+    padding-bottom: 16px;
+}
+
+.future-description {
+     height: 78px;
+     width: 400px;
+     padding-bottom: 24px;
+}
+
+.pic-section img{
+     margin-right: 10px;
+}
+
+.second-column {
+     margin-top: 130px;
+     margin-left: 200px;
+}
+
+input, call {
+     display: block;
+}
+
+.hello {
+    height: 50px;
+    width: 325px; 
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: var(--Dark-07, #F3F3F3);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+#finish {
+    height: 50px;
+    width: 120px;
+    margin-top: 16px;
+    color: #F15B22;
+    font-size: 15px;
+    font-weight: 600;
+
 }
