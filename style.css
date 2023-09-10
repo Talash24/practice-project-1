@@ -51,3 +51,54 @@
    
 
 }
+
+ul {
+    list-style: none;
+}
+
+ul li {
+
+    padding-bottom: 10px;
+    color: var(--Dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+   
+}
+
+.second-part {
+    display: flex;
+}
+
+.aje-baje {
+     padding-top: 400px;
+     padding-left: 80px;
+}
+
+.imag {
+     margin-top: 140px;
+     margin-left: 80px;
+}
+
+.failure {
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 24px;
+}
+
+.failure-description {
+    color: var(--Dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 22px;
+    padding-right: 250px;
+}
+
+i {
+    color: #16D887;
+}
