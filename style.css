@@ -102,3 +102,51 @@ ul li {
 i {
     color: #16D887;
 }
+
+.planning {
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.alada {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-left: 220px;
+    margin-right: 50px;
+}
+
+.planning {
+    padding-bottom: 50px;
+}
+
+.moto {
+    text-align: center;
+}
+
+.chobi {
+     height: 50px;
+     width: 50px;
+}
+
+.skill {
+    color: var(--Dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.what {
+    color: var(--Dark-03, #737272);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 5px;
+}
